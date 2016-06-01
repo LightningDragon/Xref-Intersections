@@ -8,10 +8,10 @@ Info
 This plugin generates a list of intersecting references between multiple reference trees. It can display the results as either a graph or console output
 
 .. image::
-    media/console.jpg
+    media/console.png
 
 .. image::
-	media/graph.jpg
+	media/graph.png
 
 Dependencies
 ------------
